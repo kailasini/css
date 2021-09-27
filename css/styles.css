@@ -18,7 +18,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.7rem;
+  font-size: 1rem;
   font-family: 'Work Sans', sans-serif;
   color:  #11999E;
 }
@@ -43,7 +43,7 @@ hr{
 
 .top-cloud {
   position: absolute;
-  right: 320px;
+  right: 200px;
   top: 50px;
 }
 
