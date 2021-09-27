@@ -1,0 +1,154 @@
+body {
+  margin: 0;
+  position: relative;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #63B4B8;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Bree Serif', serif;
+  color: #66BFBF;
+}
+
+h3 {
+  font-size: 1.7rem;
+  font-family: 'Work Sans', sans-serif;
+  color:  #11999E;
+}
+
+p{
+  line-height: 2;
+  color: #2B2B2B;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 5%;
+  border-color: #E6DDC6;
+}
+
+.top-container {
+  background-color: #CDF0EA;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 320px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.mountain {
+  padding-top: 50px
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.profile{
+  margin: 3.125rem auto;
+}
+
+.drawing{
+  border-radius: 50%;
+  width:30%;
+  float: left;
+  margin-right: 30px;
+  }
+
+.art{
+  width:25%;
+  float: right;
+  border-radius: 50%;
+  margin-left: 20px;
+}
+
+.coding{
+  width: 30%;
+  float: left;
+  border-radius: 50%;
+  margin-right: 30px;
+}
+
+.skills{
+  margin-top: 3.125rem
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 25px 0;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+  }
+
+  .contact-me{
+    margin: 5rem auto 3.75rem;
+  }
+
+  .contact-msg{
+    width: 30%;
+    margin: 40px auto 55px;
+  }
+
+  .copyright{
+    margin: 0;
+    padding: 18px 0 10px;
+    color: #EDF6E5;
+    font-size: 0.75rem;
+  }
+
+.BUTTON_WPW {
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family: 'Work Sans', sans-serif;;
+   font-size: 20px;
+   font-weight: 300;
+   padding: 14px;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #000000 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_WPW:hover {
+   border: solid #0059A0 1px;
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AE);
+   background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AE);
+   background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AE);
+   background-image: -o-linear-gradient(top, #30E3CB, #2BC4AE);
+   background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AE);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}
