@@ -6,19 +6,19 @@ body {
 }
 
 h1 {
-  font-size: 4.625rem;
+  font-size: 74px;
   font-family: 'Sacramento', cursive;
   color: #63B4B8;
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 32px;
   font-family: 'Bree Serif', serif;
   color: #66BFBF;
 }
 
 h3 {
-  font-size: 1rem;
+  font-size: 16px;
   font-family: 'Work Sans', sans-serif;
   color:  #11999E;
 }
@@ -62,7 +62,7 @@ hr{
 }
 
 .profile{
-  margin: 3.125rem auto;
+  margin: 50px auto;
 }
 
 .drawing{
@@ -87,7 +87,7 @@ hr{
 }
 
 .skills{
-  margin-top: 3.125rem
+  margin-top: 50px;
 }
 
 .bottom-container{
@@ -101,7 +101,7 @@ hr{
   }
 
   .contact-me{
-    margin: 5rem auto 3.75rem;
+    margin: 80px auto 60px;
   }
 
   .contact-msg{
@@ -113,7 +113,7 @@ hr{
     margin: 0;
     padding: 18px 0 10px;
     color: #EDF6E5;
-    font-size: 0.75rem;
+    font-size: 12px;
   }
 
 .BUTTON_WPW {
