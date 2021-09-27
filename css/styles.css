@@ -18,7 +18,7 @@ h2 {
 }
 
 h3 {
-  font-size: 27px;
+  font-size: 24px;
   font-family: 'Work Sans', sans-serif;
   color:  #11999E;
 }
@@ -43,7 +43,7 @@ hr{
 
 .top-cloud {
   position: absolute;
-  right: 200px;
+  right: 180px;
   top: 50px;
 }
 
@@ -113,7 +113,7 @@ hr{
     margin: 0;
     padding: 18px 0 10px;
     color: #EDF6E5;
-    font-size: 12px;
+    font-size: 8px;
   }
 
 .BUTTON_WPW {
