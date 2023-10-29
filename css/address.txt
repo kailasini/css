@@ -1,0 +1,20 @@
+import java.io.*; 
+import java.net.*; 
+class address  
+{ 
+ public static void main(String args[])  
+{ 
+try {  
+ String s1,s2; 
+ InetAddress addr=InetAddress.getLocalHost(); 
+ s1=addr.getHostAddress( ); 
+ s2=addr.getHostName( ); 
+ System.out.println("Host Address:"+s1); 
+ System.out.println("Host Name:"+s2);  
+} 
+catch (Exception e) {  
+ e.printStackTrace();  
+ } 
+ }  
+} 
+
